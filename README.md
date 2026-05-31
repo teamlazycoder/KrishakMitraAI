@@ -221,7 +221,7 @@ Set environment variable: `REACT_APP_API_URL=https://your-backend.render.com/api
 
 ## 👥 Built By
 **LazyCoder's Team** – Hackathon Project
-- Kartik (Lead)
+- Kartik Gurve(Lead)
 - Atharva Deotare
 - Akshay Kamble
 - Darshan Bijewar
